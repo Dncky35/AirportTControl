@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ercan\\AirPortControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADA9B1A-F76A-5AC9-0260-9E029AFE67A1}|Assembly-CSharp.csproj|c:\\users\\ercan\\airportcontrol\\assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADA9B1A-F76A-5AC9-0260-9E029AFE67A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADA9B1A-F76A-5AC9-0260-9E029AFE67A1}|Assembly-CSharp.csproj|C:\\Users\\ercan\\AirPortControl\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADA9B1A-F76A-5AC9-0260-9E029AFE67A1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\Users\\ercan\\AirPortControl\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "C:\\Users\\ercan\\AirPortControl\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:00:54.751Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaneController.cs",
+              "DocumentMoniker": "C:\\Users\\ercan\\AirPortControl\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaneController.cs",
+              "ToolTip": "C:\\Users\\ercan\\AirPortControl\\Assets\\Scripts\\PlaneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:04:12.796Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
